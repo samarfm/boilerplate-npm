@@ -1,6 +1,7 @@
 {
 	"author": "Sam FM",
 	"name": "fcc-learn-npm-package-json",
+	"license": "freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
