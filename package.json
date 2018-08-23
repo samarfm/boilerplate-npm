@@ -8,6 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"description": "A project that does something awesome",
 	"engines": {
 		"node": "8.11.2"
 	},
